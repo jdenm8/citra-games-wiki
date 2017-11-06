@@ -1,7 +1,5 @@
 title = "7th Dragon III Code: VFD"
 description = "7th Dragon III: Code VFD is a JRPG developed and published by Sega. It is the third and final instalment in the 7th Dragon series, previously unreleased outside Japan."
-incomplete = false
-github_issues = []
 needs_system_files = false
 needs_shared_font = true
 
